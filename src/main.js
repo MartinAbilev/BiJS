@@ -29,12 +29,12 @@ myRec.onEnd = () =>
 }
 
 // myRec.interimResults = true // allow partial recognition (faster, less accurate)	
-
+let prvious_question = ''
 class bianka
 {
-
 	async init(question)
 	{
+
 		let selfLoss = []
 
 		const out_text = document.getElementById('out_text')
@@ -188,7 +188,7 @@ class bianka
 			})
 		}
 
-		let BATCH_SIZE = 16
+		let BATCH_SIZE = 32
 
 		//***********************************************************************/
 		// Define a model for linear regression.
@@ -212,15 +212,17 @@ class bianka
 
 				for(let b = 0; b < BATCH_SIZE; b++)
 				{
-					sample = tokenize(temp_convo.pop()) || sample
+					sample = tokenize(temp_convo[bin + b]) || sample
+					sample_previous = tokenize(temp_convo[bin + b - 1]) || sample
+
 
 					for(let x = 0; x < sentence_max_len; x++)
 					{
 						const vx = sample.x 
 						const vy = sample.y
-						const vt = sample.t || sample.y
 
-						let tid = sample_previous ? sample_previous.y[x] : sample.y[x]
+						const vt = sample_previous ? sample_previous.y[x] : sample.y[x]
+
 						xdata.set(b, vx[x], x, 1.0)
 						ydata.set(b, vy[x], x, 1.0)
 						tdata.set(b, vt[x], x, 1.0)
@@ -235,7 +237,7 @@ class bianka
 				ys.print()
 				ts.print()
 				
-				sample_previous = sample
+			
 
 				return [xs,ys,ts]
 		}
@@ -439,8 +441,8 @@ class bianka
 			ansver = ansver.join(' ')
 			
 			var voice_str = ansver.replace('bianka', 'Bianca')
-			voice_str = voice_str.replace('bjanka', 'Bianca')
-			voice_str = voice_str.replace('bjanca', 'Bianca')
+				voice_str = voice_str.replace('bjanka', 'Bianca')
+				voice_str = voice_str.replace('bjanca', 'Bianca')
 			
 			window.biVoice.onEnd = ()=>
 			{
@@ -449,8 +451,9 @@ class bianka
 			window.biVoice.speak( voice_str )
 			
 			
-			convo.push( {x: ansver, y: question, t: question } )
+			convo.push( {x: ansver, y: prvious_question, t: question } )
 			await save_convo(convo)
+			prvious_question = question
 		})
 
 		
