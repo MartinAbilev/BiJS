@@ -196,17 +196,12 @@ class bianka
 				const tdata = nj.zeros(xdata.shape)
 
 				let sample = tokenize(convo[bin])
-				if (!sample)
-				{
-					tokenize(convo[0])
-				}
+
 				for(let b = 0; b < BATCH_SIZE; b++)
 				{
-					sample = tokenize(convo[bin+b])
-					if (!sample)
-					{
-						tokenize(convo[0])
-					}
+					let bk = convo[bin+b] < convo.length
+					sample = tokenize(bk) || sample
+
 					for(let x = 0; x < sentence_max_len; x++)
 					{
 						const vx = sample.x
@@ -271,7 +266,7 @@ class bianka
 
 		//***********************************************************************/
 				
-		const rnd = parseInt(Math.random()*convos_len - 1)
+		const rnd = parseInt(Math.random()*convos_len)
 		const [xtensor,ytensor,ttensor] = nextBath( rnd )
 
 		// Train the model using the data.
