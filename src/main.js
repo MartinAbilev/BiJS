@@ -199,7 +199,6 @@ class bianka
 		const encoder_inputs = tf.input({shape: inputShape, name: 'encoder_inputs' })
 		const decoder_inputs = tf.input({shape: inputShape, name: 'decoder_inputs' })
 
-		var sample_previous = null
 		function nextBath(bin)
 		{
 				const xdata = nj.zeros([BATCH_SIZE,vocab_len,sentence_max_len])
@@ -213,15 +212,12 @@ class bianka
 				for(let b = 0; b < BATCH_SIZE; b++)
 				{
 					sample = tokenize(temp_convo[bin + b]) || sample
-					sample_previous = tokenize(temp_convo[bin + b - 1]) || sample
-
 
 					for(let x = 0; x < sentence_max_len; x++)
 					{
 						const vx = sample.x 
 						const vy = sample.y
-
-						const vt = sample_previous ? sample_previous.y[x] : sample.y[x]
+						const vt = sample.y
 
 						xdata.set(b, vx[x], x, 1.0)
 						ydata.set(b, vy[x], x, 1.0)
@@ -237,8 +233,6 @@ class bianka
 				ys.print()
 				ts.print()
 				
-			
-
 				return [xs,ys,ts]
 		}
 
