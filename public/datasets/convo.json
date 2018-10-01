@@ -1,5 +1,480 @@
 [
   {
+    "x": "es esmu savā mājā",
+    "y": "es esmu savā mājā",
+    "t": "es esmu savā mājā"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "ja tu esi laba",
+    "y": "ja tu esi laba",
+    "t": "ja tu esi laba"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "es tavs draugs te dzīvoju",
+    "y": "es tavs draugs te dzīvoju",
+    "t": "es tavs draugs te dzīvoju"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "",
+    "y": "",
+    "t": ""
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "prieks iepazīties",
+    "y": "prieks iepazīties",
+    "t": "prieks iepazīties"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "tu dzīvo mājā pie jūras",
+    "y": "tu dzīvo mājā pie jūras",
+    "t": "tu dzīvo mājā pie jūras"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "",
+    "y": "",
+    "t": ""
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "tā kas dzīvo mājā pie jūras ",
+    "y": "tā kas dzīvo mājā pie jūras ",
+    "t": "tā kas dzīvo mājā pie jūras "
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "tu esi bianca kas dzivo mājā",
+    "y": "tu esi bianca kas dzivo mājā",
+    "t": "tu esi bianca kas dzivo mājā"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "tu esi bianca",
+    "y": "tu esi bianca",
+    "t": "tu esi bianca"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "jā pareizi",
+    "y": "jā pareizi",
+    "t": "jā pareizi"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "bianka ir savā istabā",
+    "y": "bianka ir savā istabā",
+    "t": "bianka ir savā istabā"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "te šajā istabā",
+    "y": "te šajā istabā",
+    "t": "te šajā istabā"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "es ceru es esmu labs kā tu",
+    "y": "es ceru es esmu labs kā tu",
+    "t": "es ceru es esmu labs kā tu"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "tu bianka esi te",
+    "y": "tu bianka esi te",
+    "t": "tu bianka esi te"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "tu bianka",
+    "y": "tu bianka",
+    "t": "tu bianka"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "es es",
+    "y": "es es",
+    "t": "es es"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "jā tu esi",
+    "y": "jā tu esi",
+    "t": "jā tu esi"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "",
+    "y": "",
+    "t": ""
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
     "x": "esmu biancas draugs",
     "y": "esmu biancas draugs",
     "t": "esmu biancas draugs"
@@ -348,5 +823,100 @@
     "x": "tāpat tāpat ceru es cilvēks ceru",
     "y": "esmu biancas draugs",
     "t": "esmu biancas draugs"
+  },
+  {
+    "x": "esmu  ?",
+    "y": "",
+    "t": ""
+  },
+  {
+    "x": "tu tu",
+    "y": "jā tu esi",
+    "t": "jā tu esi"
+  },
+  {
+    "x": "Bianka kā Bianka ? es",
+    "y": "es es",
+    "t": "es es"
+  },
+  {
+    "x": " biancas bianka biancas",
+    "y": "tu bianka",
+    "t": "tu bianka"
+  },
+  {
+    "x": "esmu . laba ka tu .",
+    "y": "tu bianka esi te",
+    "t": "tu bianka esi te"
+  },
+  {
+    "x": "jā . te",
+    "y": "es ceru es esmu labs kā tu",
+    "t": "es ceru es esmu labs kā tu"
+  },
+  {
+    "x": "biancas nē ",
+    "y": "te šajā istabā",
+    "t": "te šajā istabā"
+  },
+  {
+    "x": "esmu Bianka kas bianca kas",
+    "y": "bianka ir savā istabā",
+    "t": "bianka ir savā istabā"
+  },
+  {
+    "x": "?",
+    "y": "jā pareizi",
+    "t": "jā pareizi"
+  },
+  {
+    "x": "esmu ? esmu bianka bianka",
+    "y": "tu esi bianca",
+    "t": "tu esi bianca"
+  },
+  {
+    "x": "Bianka tā Bianka ka Bianca esi",
+    "y": "tu esi bianca kas dzivo mājā",
+    "t": "tu esi bianca kas dzivo mājā"
+  },
+  {
+    "x": "es . es es",
+    "y": "tā kas dzīvo mājā pie jūras ",
+    "t": "tā kas dzīvo mājā pie jūras "
+  },
+  {
+    "x": "esmu te nē mājā mājā",
+    "y": "",
+    "t": ""
+  },
+  {
+    "x": "esmu esmu bianka",
+    "y": "tu dzīvo mājā pie jūras",
+    "t": "tu dzīvo mājā pie jūras"
+  },
+  {
+    "x": "Bianka savā  bianca",
+    "y": "prieks iepazīties",
+    "t": "prieks iepazīties"
+  },
+  {
+    "x": "dzivo kas te esi",
+    "y": "",
+    "t": ""
+  },
+  {
+    "x": "laba ? kas bianka",
+    "y": "es tavs draugs te dzīvoju",
+    "t": "es tavs draugs te dzīvoju"
+  },
+  {
+    "x": "esi mājā Bianka bianca",
+    "y": "ja tu esi laba",
+    "t": "ja tu esi laba"
+  },
+  {
+    "x": "tavs savā dzīvo biancas",
+    "y": "es esmu savā mājā",
+    "t": "es esmu savā mājā"
   }
 ]

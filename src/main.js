@@ -196,11 +196,17 @@ class bianka
 				const tdata = nj.zeros(xdata.shape)
 
 				let sample = tokenize(convo[bin])
-
+				if (!sample)
+				{
+					tokenize(convo[0])
+				}
 				for(let b = 0; b < BATCH_SIZE; b++)
 				{
 					sample = tokenize(convo[bin+b])
-
+					if (!sample)
+					{
+						tokenize(convo[0])
+					}
 					for(let x = 0; x < sentence_max_len; x++)
 					{
 						const vx = sample.x
