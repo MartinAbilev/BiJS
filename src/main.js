@@ -199,12 +199,12 @@ class bianka
 
 				for(let b = 0; b < BATCH_SIZE; b++)
 				{
-					let bk = convo[bin+b] < convo.length
-					sample = tokenize(bk) || sample
+					
+					sample = tokenize(convo.pop()) || sample
 
 					for(let x = 0; x < sentence_max_len; x++)
 					{
-						const vx = sample.x
+						const vx = sample.x 
 						const vy = sample.y
 						const vt = sample.t || sample.y
 
