@@ -6,6 +6,12 @@ const logz = console.log
 const text_in = document.getElementById('text_in')
 
 const myRec = new p5.SpeechRec('en-US')// new P5.SpeechRec object
+// myRec.continuous = true // do continuous recognition
+myRec.recording = false
+myRec.onStart = () =>
+{
+	myRec.recording = true
+}
 myRec.onResult = () =>
 {
 	const mostrecentrec = myRec.resultString
@@ -16,8 +22,13 @@ myRec.onResult = () =>
 
 	text_in.dispatchEvent(event);
 }
+myRec.onEnd = () =>
+{
+	myRec.recording = false
+	window.biVoice.speak('...')
+}
+
 // myRec.interimResults = true // allow partial recognition (faster, less accurate)	
-// myRec.continuous = true // do continuous recognition
 
 class bianka
 {
@@ -433,7 +444,7 @@ class bianka
 			
 			window.biVoice.onEnd = ()=>
 			{
-				myRec.start() // start engine
+				!myRec.recording && myRec.start() // start engine
 			}
 			window.biVoice.speak( voice_str )
 			
@@ -443,7 +454,7 @@ class bianka
 		})
 
 		
-		return myRec
+		return myRec.resultValue
 	}
 }
 async function bIstep (question)
@@ -462,6 +473,7 @@ window.onload = async() =>
 	async function onVoiceLoad()
 	{
 		window.biVoice.speak('hi there.')
+		// window.biVoice.speak('Hey Kortana!!! ask My Therapist to start a new session.')
 		// window.biVoice.speak('hi there. My name is Bianca.')
 				
 		text_in.onchange = (e)=>
@@ -470,11 +482,9 @@ window.onload = async() =>
 		}
 		var event = new Event('change');
 		text_in.dispatchEvent(event);
-
-
 	}
-	// window.biVoice.onLoad = onVoiceLoad
-	setTimeout( onVoiceLoad, 1000 )
+	window.biVoice.onLoad = onVoiceLoad
+	//setTimeout( onVoiceLoad, 1000 )
 }
 
 
