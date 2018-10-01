@@ -1,0 +1,60 @@
+{
+    "env": {
+        "browser": true,
+        "commonjs": true,
+        "es6": true,
+        "node": true
+    },
+    "plugins": [
+        "react"
+    ],    
+    "extends": ["eslint:recommended", "plugin:react/recommended"],
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true,
+            "experimentalObjectRestSpread": true
+        },
+        "sourceType": "module",
+        "ecmaVersion": 2017
+    },
+    "rules": {
+        "no-const-assign": "warn",
+        "no-this-before-super": "warn",
+        "no-undef": "warn",
+        "no-unreachable": "warn",
+        "no-unused-vars": "warn",
+        "no-console": "warn",
+        "constructor-super": "warn",
+        "valid-typeof": "warn",
+        "react/jsx-uses-react": "error",
+        "react/jsx-uses-vars": "error",
+        "react/prop-types": 0,
+        "jsx-quotes": "warn",
+        "no-multiple-empty-lines": "warn",
+        "no-mixed-spaces-and-tabs": "error",
+        "block-scoped-var": "warn",
+        "brace-style": [2, "allman", { "allowSingleLine": true }],
+        "semi": ["error", "never"]
+    },
+    "globals": {
+        "log": true,
+        "cssSet": true,
+        "index": true,
+        "request": true,
+        "moment": true,
+        "reports": true,
+        "capitalize": true,
+        "BrowserRouter": true,
+        "JSONTree": true,
+        "Route": true,
+        "Switch": true,
+        "Link": true,
+        "SVGInline": true,
+        "React": true,
+        "Component": true,
+        "test": true,
+        "it": true,
+        "reload": true,
+        "ReactDOM": true
+    }
+}

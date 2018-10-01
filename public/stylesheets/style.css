@@ -1,0 +1,28 @@
+html
+{
+  background-color: rgb(211, 212, 208);
+}
+body
+{
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+a
+{
+  color: #00B7FF;
+}
+#text_in
+{
+  width: 100%;
+}
+.log-div
+{
+  width: 100%;
+}
+#out_rext
+{
+  overflow: auto;
+  white-space: pre-wrap;
+  height: 100px;
+  width: 100%;
+}

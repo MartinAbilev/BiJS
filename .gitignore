@@ -1,0 +1,7 @@
+.env
+node_modules/
+/target
+**/*.rs.bk
+public/js/*.js
+# public/datasets/*
+public/js/*.js.map
