@@ -197,10 +197,11 @@ class bianka
 
 				let sample = tokenize(convo[bin])
 
+				const temp_convo = Array.from(convo)
+
 				for(let b = 0; b < BATCH_SIZE; b++)
 				{
-					
-					sample = tokenize(convo.pop()) || sample
+					sample = tokenize(temp_convo.pop()) || sample
 
 					for(let x = 0; x < sentence_max_len; x++)
 					{
