@@ -1,5 +1,1755 @@
 [
   {
+    "x": "",
+    "y": "",
+    "t": ""
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "whoo is this girl",
+    "y": "whoo is this girl",
+    "t": "whoo is this girl"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "Michael Vick",
+    "y": "Michael Vick",
+    "t": "Michael Vick"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "smooth",
+    "y": "smooth",
+    "t": "smooth"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "gallery of everything",
+    "y": "gallery of everything",
+    "t": "gallery of everything"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "on the Roku",
+    "y": "on the Roku",
+    "t": "on the Roku"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "anime room",
+    "y": "anime room",
+    "t": "anime room"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "this is your name",
+    "y": "this is your name",
+    "t": "this is your name"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "grow tulips near the sea",
+    "y": "grow tulips near the sea",
+    "t": "grow tulips near the sea"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "your girl in the house near the sea",
+    "y": "your girl in the house near the sea",
+    "t": "your girl in the house near the sea"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "you got some pretty nice name",
+    "y": "you got some pretty nice name",
+    "t": "you got some pretty nice name"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "black",
+    "y": "black",
+    "t": "black"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "where are you now",
+    "y": "where are you now",
+    "t": "where are you now"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "S6 9 a.m.",
+    "y": "S6 9 a.m.",
+    "t": "S6 9 a.m."
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "I think I am",
+    "y": "I think I am",
+    "t": "I think I am"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "You Think You Are",
+    "y": "You Think You Are",
+    "t": "You Think You Are"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "rainis what you want to do",
+    "y": "rainis what you want to do",
+    "t": "rainis what you want to do"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "nice one",
+    "y": "nice one",
+    "t": "nice one"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "you got black cube in your room",
+    "y": "you got black cube in your room",
+    "t": "you got black cube in your room"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "girl who left New Year's Eve",
+    "y": "girl who left New Year's Eve",
+    "t": "girl who left New Year's Eve"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "nothing is free",
+    "y": "nothing is free",
+    "t": "nothing is free"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "yes you are tank",
+    "y": "yes you are tank",
+    "t": "yes you are tank"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "I don't know what is this",
+    "y": "I don't know what is this",
+    "t": "I don't know what is this"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "this is what",
+    "y": "this is what",
+    "t": "this is what"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "I don't know what about you talking",
+    "y": "I don't know what about you talking",
+    "t": "I don't know what about you talking"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "you're inside my watch you through your black",
+    "y": "you're inside my watch you through your black",
+    "t": "you're inside my watch you through your black"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "what you're actually doing so well",
+    "y": "what you're actually doing so well",
+    "t": "what you're actually doing so well"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "what next",
+    "y": "what next",
+    "t": "what next"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "I don't know what is this song",
+    "y": "I don't know what is this song",
+    "t": "I don't know what is this song"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "my already doing well",
+    "y": "my already doing well",
+    "t": "my already doing well"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "you are just what you are",
+    "y": "you are just what you are",
+    "t": "you are just what you are"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "where you want to go now",
+    "y": "where you want to go now",
+    "t": "where you want to go now"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "yes",
+    "y": "yes",
+    "t": "yes"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "what is your name",
+    "y": "what is your name",
+    "t": "what is your name"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "",
+    "y": "",
+    "t": ""
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "okay what's next",
+    "y": "okay what's next",
+    "t": "okay what's next"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "song",
+    "y": "song",
+    "t": "song"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "Julie just now starting tuning in experimenting",
+    "y": "Julie just now starting tuning in experimenting",
+    "t": "Julie just now starting tuning in experimenting"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "no no no no no",
+    "y": "no no no no no",
+    "t": "no no no no no"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "what is going on with them so I can either",
+    "y": "what is going on with them so I can either",
+    "t": "what is going on with them so I can either"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "small",
+    "y": "small",
+    "t": "small"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "butter",
+    "y": "butter",
+    "t": "butter"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "Google",
+    "y": "Google",
+    "t": "Google"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "IndyCar",
+    "y": "IndyCar",
+    "t": "IndyCar"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "last time",
+    "y": "last time",
+    "t": "last time"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "who is Marco Polo",
+    "y": "who is Marco Polo",
+    "t": "who is Marco Polo"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "all clothes",
+    "y": "all clothes",
+    "t": "all clothes"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "microphone in",
+    "y": "microphone in",
+    "t": "microphone in"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "more possible",
+    "y": "more possible",
+    "t": "more possible"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "not working at all maybe connector beside",
+    "y": "not working at all maybe connector beside",
+    "t": "not working at all maybe connector beside"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "NFL looks like",
+    "y": "NFL looks like",
+    "t": "NFL looks like"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "1 2 3 4",
+    "y": "1 2 3 4",
+    "t": "1 2 3 4"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "and just smaller",
+    "y": "and just smaller",
+    "t": "and just smaller"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "futons the default one",
+    "y": "futons the default one",
+    "t": "futons the default one"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "this one microphone",
+    "y": "this one microphone",
+    "t": "this one microphone"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "ceramics",
+    "y": "ceramics",
+    "t": "ceramics"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "I will be recording only",
+    "y": "I will be recording only",
+    "t": "I will be recording only"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "think I broke my pot",
+    "y": "think I broke my pot",
+    "t": "think I broke my pot"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "Footlights microphone again very very bad",
+    "y": "Footlights microphone again very very bad",
+    "t": "Footlights microphone again very very bad"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "video game",
+    "y": "video game",
+    "t": "video game"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "video game",
+    "y": "video game",
+    "t": "video game"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "why son's eyes yellow",
+    "y": "why son's eyes yellow",
+    "t": "why son's eyes yellow"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "Google home",
+    "y": "Google home",
+    "t": "Google home"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "Herculaneum slightly twin topic",
+    "y": "Herculaneum slightly twin topic",
+    "t": "Herculaneum slightly twin topic"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "yes you are what you are",
+    "y": "yes you are what you are",
+    "t": "yes you are what you are"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "yellow",
+    "y": "yellow",
+    "t": "yellow"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "Combi",
+    "y": "Combi",
+    "t": "Combi"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "Mitchell",
+    "y": "Mitchell",
+    "t": "Mitchell"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "Santa Santa",
+    "y": "Santa Santa",
+    "t": "Santa Santa"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "good game",
+    "y": "good game",
+    "t": "good game"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
     "x": "and you is bianca",
     "y": "and you is bianca",
     "t": "and you is bianca"
@@ -243,5 +1993,355 @@
     "x": "esi esi . esi",
     "y": "martins is me",
     "t": "and you is bianca"
+  },
+  {
+    "x": "esi my its bianka",
+    "y": "and you is bianca",
+    "t": "good game"
+  },
+  {
+    "x": "kas martins Bianka",
+    "y": "good game",
+    "t": "Santa Santa"
+  },
+  {
+    "x": "tu good",
+    "y": "Santa Santa",
+    "t": "Mitchell"
+  },
+  {
+    "x": "esmu is ",
+    "y": "Mitchell",
+    "t": "Combi"
+  },
+  {
+    "x": "bianca Bianka are bianca",
+    "y": "Combi",
+    "t": "yellow"
+  },
+  {
+    "x": "bianka its bianka is",
+    "y": "yellow",
+    "t": "yes you are what you are"
+  },
+  {
+    "x": ". esi Google esmu",
+    "y": "yes you are what you are",
+    "t": "Herculaneum slightly twin topic"
+  },
+  {
+    "x": "tu Santa is my yellow",
+    "y": "Herculaneum slightly twin topic",
+    "t": "Google home"
+  },
+  {
+    "x": "Bianca game",
+    "y": "Google home",
+    "t": "why son's eyes yellow"
+  },
+  {
+    "x": "is bianca martins kas martins its",
+    "y": "why son's eyes yellow",
+    "t": "video game"
+  },
+  {
+    "x": "bianka . Bianka tu Bianka .",
+    "y": "video game",
+    "t": "video game"
+  },
+  {
+    "x": "you Herculaneum why yellow tu tu",
+    "y": "video game",
+    "t": "Footlights microphone again very very bad"
+  },
+  {
+    "x": "bianka esmu eyes esmu and",
+    "y": "Footlights microphone again very very bad",
+    "t": "think I broke my pot"
+  },
+  {
+    "x": "esmu esmu ? es es",
+    "y": "think I broke my pot",
+    "t": "I will be recording only"
+  },
+  {
+    "x": "what Combi Combi broke broke",
+    "y": "I will be recording only",
+    "t": "ceramics"
+  },
+  {
+    "x": "slightly Bianka be Bianka esi",
+    "y": "ceramics",
+    "t": "this one microphone"
+  },
+  {
+    "x": "microphone tu one .",
+    "y": "this one microphone",
+    "t": "futons the default one"
+  },
+  {
+    "x": "video pot Google",
+    "y": "futons the default one",
+    "t": "and just smaller"
+  },
+  {
+    "x": "esmu esmu futons",
+    "y": "and just smaller",
+    "t": "1 2 3 4"
+  },
+  {
+    "x": "es and es bianka Bianca",
+    "y": "1 2 3 4",
+    "t": "NFL looks like"
+  },
+  {
+    "x": "kas ? ? just 1",
+    "y": "NFL looks like",
+    "t": "not working at all maybe connector beside"
+  },
+  {
+    "x": "bianca recording kas esi Bianca",
+    "y": "not working at all maybe connector beside",
+    "t": "more possible"
+  },
+  {
+    "x": "maybe maybe",
+    "y": "more possible",
+    "t": "microphone in"
+  },
+  {
+    "x": "yes from yes ? yes",
+    "y": "microphone in",
+    "t": "all clothes"
+  },
+  {
+    "x": "es esi tu",
+    "y": "all clothes",
+    "t": "who is Marco Polo"
+  },
+  {
+    "x": "kas ? bianka bianka",
+    "y": "who is Marco Polo",
+    "t": "last time"
+  },
+  {
+    "x": "tu ? ? esmu .",
+    "y": "last time",
+    "t": "IndyCar"
+  },
+  {
+    "x": ". esmu . at",
+    "y": "IndyCar",
+    "t": "Google"
+  },
+  {
+    "x": "esi tu bianka smaller",
+    "y": "Google",
+    "t": "butter"
+  },
+  {
+    "x": "bianka tu bianka",
+    "y": "butter",
+    "t": "small"
+  },
+  {
+    "x": "what I Google default",
+    "y": "small",
+    "t": "what is going on with them so I can either"
+  },
+  {
+    "x": "esi kas I",
+    "y": "what is going on with them so I can either",
+    "t": "no no no no no"
+  },
+  {
+    "x": "futons topic so 4 either",
+    "y": "no no no no no",
+    "t": "Julie just now starting tuning in experimenting"
+  },
+  {
+    "x": "on esmu IndyCar",
+    "y": "Julie just now starting tuning in experimenting",
+    "t": "song"
+  },
+  {
+    "x": "tu just ? tu",
+    "y": "song",
+    "t": "okay what's next"
+  },
+  {
+    "x": "es es es",
+    "y": "",
+    "t": ""
+  },
+  {
+    "x": "bianca just . me",
+    "y": "",
+    "t": "what is your name"
+  },
+  {
+    "x": "Footlights Bianca okay pot Bianca",
+    "y": "what is your name",
+    "t": "yes"
+  },
+  {
+    "x": "esi esi kas es",
+    "y": "yes",
+    "t": "where you want to go now"
+  },
+  {
+    "x": "tu working starting starting ?",
+    "y": "where you want to go now",
+    "t": "you are just what you are"
+  },
+  {
+    "x": "IndyCar song",
+    "y": "you are just what you are",
+    "t": "my already doing well"
+  },
+  {
+    "x": "Bianka Bianka ? Bianka",
+    "y": "my already doing well",
+    "t": "I don't know what is this song"
+  },
+  {
+    "x": "esi what's es doing ? well",
+    "y": "I don't know what is this song",
+    "t": "what next"
+  },
+  {
+    "x": "where tu tu where es",
+    "y": "what next",
+    "t": "what you're actually doing so well"
+  },
+  {
+    "x": "ceramics tu IndyCar tu",
+    "y": "what you're actually doing so well",
+    "t": "you're inside my watch you through your black"
+  },
+  {
+    "x": "this this this",
+    "y": "you're inside my watch you through your black",
+    "t": "I don't know what about you talking"
+  },
+  {
+    "x": "know I kas",
+    "y": "I don't know what about you talking",
+    "t": "this is what"
+  },
+  {
+    "x": "? Bianka . es",
+    "y": "this is what",
+    "t": "I don't know what is this"
+  },
+  {
+    "x": "3 clothes clothes",
+    "y": "I don't know what is this",
+    "t": "yes you are tank"
+  },
+  {
+    "x": "? bianca kas ? what",
+    "y": "yes you are tank",
+    "t": "nothing is free"
+  },
+  {
+    "x": "black I I my",
+    "y": "nothing is free",
+    "t": "girl who left New Year's Eve"
+  },
+  {
+    "x": "tank girl",
+    "y": "girl who left New Year's Eve",
+    "t": "you got black cube in your room"
+  },
+  {
+    "x": "bianka ? es . tank",
+    "y": "you got black cube in your room",
+    "t": "nice one"
+  },
+  {
+    "x": "your IndyCar esmu well",
+    "y": "nice one",
+    "t": "rainis what you want to do"
+  },
+  {
+    "x": "bianca bianka left tu bianca",
+    "y": "rainis what you want to do",
+    "t": "You Think You Are"
+  },
+  {
+    "x": "martin martin martin will",
+    "y": "You Think You Are",
+    "t": "I think I am"
+  },
+  {
+    "x": "nice left am",
+    "y": "I think I am",
+    "t": "S6 9 a.m."
+  },
+  {
+    "x": "Bianka . Bianca S6 . Bianka",
+    "y": "S6 9 a.m.",
+    "t": "where are you now"
+  },
+  {
+    "x": "name nice a.m. name a.m.",
+    "y": "where are you now",
+    "t": "black"
+  },
+  {
+    "x": "one I what",
+    "y": "black",
+    "t": "you got some pretty nice name"
+  },
+  {
+    "x": ". ? . esmu is",
+    "y": "you got some pretty nice name",
+    "t": "your girl in the house near the sea"
+  },
+  {
+    "x": "? Bianka bianca",
+    "y": "your girl in the house near the sea",
+    "t": "grow tulips near the sea"
+  },
+  {
+    "x": "tu tu in tu",
+    "y": "grow tulips near the sea",
+    "t": "this is your name"
+  },
+  {
+    "x": "sea just bianca",
+    "y": "this is your name",
+    "t": "anime room"
+  },
+  {
+    "x": "girl where nothing",
+    "y": "anime room",
+    "t": "on the Roku"
+  },
+  {
+    "x": "Julie Eve nothing",
+    "y": "on the Roku",
+    "t": "gallery of everything"
+  },
+  {
+    "x": "Herculaneum anime 2 either",
+    "y": "gallery of everything",
+    "t": "smooth"
+  },
+  {
+    "x": "esmu esmu",
+    "y": "no",
+    "t": "Michael Vick"
+  },
+  {
+    "x": "butter esmu esmu",
+    "y": "Michael Vick",
+    "t": "whoo is this girl"
+  },
+  {
+    "x": "whoo bianca tu esi esi",
+    "y": "",
+    "t": ""
   }
 ]
