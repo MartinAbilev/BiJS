@@ -38,6 +38,7 @@ class bianka
 		let selfLoss = []
 
 		const out_text = document.getElementById('out_text')
+		const info_text = document.getElementById('info_text')
 
 		logz('TEXT FROM INPUT: ', question)
 		
@@ -73,7 +74,6 @@ class bianka
 		convo_vocab = Array.from(new Set(convo_vocab))
 
 		logz('CONVO VOC .,.', convo_vocab)
-
 		var tokens =
 		[
 			'PAD',
@@ -115,6 +115,8 @@ class bianka
 		logz('PAD: ', vocab['PAD'], id2voc[vocab['PAD']])
 		logz('UNK: ', vocab['UNK'], id2voc[vocab['UNK']])
 		logz('EOS: ', vocab['EOS'], id2voc[vocab['EOS']])
+		
+		info_text.textContent = `total convos: ${convos_len} and vocab length: ${vocab_len}`
 
 		function tokenize(sample)
 		{

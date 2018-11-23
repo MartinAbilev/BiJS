@@ -1,8 +1,368 @@
 [
   {
-    "x": "no you're not",
-    "y": "no you're not",
-    "t": "no you're not"
+    "x": "Casino",
+    "y": "Casino",
+    "t": "Casino"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
+  },
+  {
+    "x": "tu",
+    "y": "es",
+    "t": "esmu"
+  },
+  {
+    "x": "es bianka",
+    "y": "kas tu ?",
+    "t": "es"
+  },
+  {
+    "x": "kas tu esi ?",
+    "y": "bianka es esmu .",
+    "t": "esmu es"
+  },
+  {
+    "x": "es esmu",
+    "y": "tu esi",
+    "t": "esmu"
   },
   {
     "x": "tu",
@@ -7353,5 +7713,95 @@
     "x": "life sound tell",
     "y": "write for what",
     "t": "no you're not"
+  },
+  {
+    "x": ". miss",
+    "y": "no you're not",
+    "t": "life is full of sounds"
+  },
+  {
+    "x": "free jā jā free",
+    "y": "life is full of sounds",
+    "t": "Ruger"
+  },
+  {
+    "x": "your find same Guitar your will",
+    "y": "Ruger",
+    "t": "hope so"
+  },
+  {
+    "x": "be baby ultimate be",
+    "y": "hope so",
+    "t": "will do"
+  },
+  {
+    "x": " esmu",
+    "y": "will do",
+    "t": "I am out tonight"
+  },
+  {
+    "x": "USS know servicing know what what",
+    "y": "I am out tonight",
+    "t": "you are"
+  },
+  {
+    "x": "tu esmu USS tu",
+    "y": "you are",
+    "t": "sorry I don't know"
+  },
+  {
+    "x": "Who need  yes",
+    "y": "sorry I don't know",
+    "t": "what's next"
+  },
+  {
+    "x": "find Brandon find find what's",
+    "y": "what's next",
+    "t": "everybody needs"
+  },
+  {
+    "x": "these his es don't",
+    "y": "everybody needs",
+    "t": "no I don't"
+  },
+  {
+    "x": "? Bianca kas C C ?",
+    "y": "no I don't",
+    "t": "case of water"
+  },
+  {
+    "x": "bianka bianca I",
+    "y": "case of water",
+    "t": "C4 seed"
+  },
+  {
+    "x": "tu es tu your",
+    "y": "",
+    "t": ""
+  },
+  {
+    "x": "es know Bianca know",
+    "y": "",
+    "t": "bianka you are my girl"
+  },
+  {
+    "x": "it . esmu esmu",
+    "y": "bianka you are my girl",
+    "t": "hope so"
+  },
+  {
+    "x": "esmu esmu know",
+    "y": "hope so",
+    "t": "you're pretty fine"
+  },
+  {
+    "x": "esmu Brandon parente back ",
+    "y": "you're pretty fine",
+    "t": "are you conscious"
+  },
+  {
+    "x": "your is your I",
+    "y": "are you conscious",
+    "t": "Casino"
   }
 ]
