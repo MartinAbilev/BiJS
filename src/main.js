@@ -25,7 +25,7 @@ myRec.onResult = () =>
 myRec.onEnd = () =>
 {
 	myRec.recording = false
-	window.biVoice.speak('...')
+	window.biVoice.speak(' . ')
 }
 
 // myRec.interimResults = true // allow partial recognition (faster, less accurate)	
