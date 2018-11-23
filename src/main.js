@@ -14,7 +14,7 @@ myRec.onStart = () =>
 }
 myRec.onResult = () =>
 {
-	const mostrecentrec = myRec.resultString
+	const mostrecentrec = myRec.resultString.replace('?', ' ?')
 	out_text.textContent = mostrecentrec
 	text_in.value = mostrecentrec
 	logz(' VOICE RECOGNITION RETURN: ',mostrecentrec)
@@ -61,11 +61,14 @@ class bianka
 
 		convo_loaded && convo_loaded.map && convo_loaded.map((sample)=>
 		{
+			if(convos_len > 0)
+			{
+				convo.push(sample)
+				sample.x.split(' ').map(smp=>convo_vocab.push(smp))
+				sample.y.split(' ').map(smp=>convo_vocab.push(smp))
+				sample.t.split(' ').map(smp=>convo_vocab.push(smp))
+			}
 			convos_len ++
-			convo.push(sample)
-			sample.x.split(' ').map(smp=>convo_vocab.push(smp))
-			sample.y.split(' ').map(smp=>convo_vocab.push(smp))
-			sample.t.split(' ').map(smp=>convo_vocab.push(smp))
 		})
 		convo_vocab = Array.from(new Set(convo_vocab))
 
@@ -93,7 +96,7 @@ class bianka
 		{
 			tokens.push(convo_vocab[vi])
 		}
-		logz('VOC2', tokens.length, tokens[1])
+		logz('TOKENS PLUS CONVO TOKENS', tokens.length, tokens)
 
 		const vocab_len = tokens.length
 		const vocab = {}
@@ -188,7 +191,7 @@ class bianka
 			})
 		}
 
-		let BATCH_SIZE = 32
+		let BATCH_SIZE = 64
 
 		//***********************************************************************/
 		// Define a model for linear regression.
