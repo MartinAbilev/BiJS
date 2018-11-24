@@ -55,7 +55,7 @@ class bianka
 		logz('convo loaded: ', await convo_loaded)
 
 		let convo = [...convo_initial]
-
+		let convo_clean = Array.from(convo_loaded)
 		let convos_len = 0
 
 		let convo_vocab = []
@@ -115,9 +115,24 @@ class bianka
 		logz('PAD: ', vocab['PAD'], id2voc[vocab['PAD']])
 		logz('UNK: ', vocab['UNK'], id2voc[vocab['UNK']])
 		logz('EOS: ', vocab['EOS'], id2voc[vocab['EOS']])
-		
+
 		info_text.textContent = `total convos: ${convos_len} and vocab length: ${vocab_len}`
 
+
+		// if(convos_len > 1000)
+		// {
+		// 	let delta = convos_len - 1000
+		// 	let tmp = []
+		// 	let con = Array.from(convo)
+
+		// 	for(let i = 0; i < delta; i++)
+		// 	{
+		// 		tmp.push(con[i + (Math.random() * 2)])
+		// 	}
+		// 	convo = tmp
+		// 	convos_len = convo.length
+		// 	log('CONVOS AFTER DELETE:', convo.length)
+		// }
 		function tokenize(sample)
 		{
 			if(sample)
@@ -193,7 +208,7 @@ class bianka
 			})
 		}
 
-		let BATCH_SIZE = 64
+		let BATCH_SIZE = 8
 
 		//***********************************************************************/
 		// Define a model for linear regression.
@@ -450,8 +465,8 @@ class bianka
 			window.biVoice.speak( voice_str )
 			
 			
-			convo.push( {x: ansver, y: prvious_question, t: question } )
-			await save_convo(convo)
+			convo_clean.push( {x: ansver, y: prvious_question, t: question } )
+			await save_convo(convo_clean)
 			prvious_question = question
 		})
 
