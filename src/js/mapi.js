@@ -2530,7 +2530,6 @@
                         "in": "query",
                         "name": "isNewMessage",
                         "description": "",
-                        "type": "string",
                         "schema": {
                             "type": "string"
                         }
@@ -2630,7 +2629,6 @@
                         "in": "query",
                         "name": "isNewMessage",
                         "description": "true/false",
-                        "type": "string",
                         "schema": {
                             "type": "string"
                         }
@@ -4577,7 +4575,6 @@
                         "in": "query",
                         "name": "validAt",
                         "description": "PoDate in YYYY-MM-DDThh:mm:ss format. Optional value, which when provided, gives in result the policy version active at this date.licy external number",
-                        "type": "string",
                         "schema": {
                             "type": "string"
                         }
@@ -4604,7 +4601,9 @@
                         "description": "Proposal details.",
                         "content": {
                             "application/json": {
-                                "schema": null
+                                "schema": {
+                                    "type": "string"
+                                }
                             }
                         }
                     }
