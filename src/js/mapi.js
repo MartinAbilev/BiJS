@@ -20284,7 +20284,6 @@
                         "in": "query",
                         "name": "validAt",
                         "description": "Date in YYYY-MM-DDThh:mm:ss format. Optional value, which when provided, gives in result the policy version active at this date.",
-                        "type": "string",
                         "schema": {
                             "type": "string"
                         }
@@ -26909,7 +26908,6 @@
                         "in": "query",
                         "name": "validAt",
                         "description": "Date in YYYY-MM-DDThh:mm:ss format. Optional value, which when provided, gives in result the policy version active at this date.",
-                        "type": "string",
                         "schema": {
                             "type": "string"
                         }
@@ -30242,7 +30240,6 @@
                         "in": "query",
                         "name": "isNewMessage",
                         "description": "true/false (Optional)",
-                        "type": "string",
                         "schema": {
                             "type": "string"
                         }
@@ -30277,7 +30274,6 @@
                         "in": "query",
                         "name": "isNewMessage",
                         "description": "true/false (Optional)",
-                        "type": "string",
                         "schema": {
                             "type": "string"
                         }
