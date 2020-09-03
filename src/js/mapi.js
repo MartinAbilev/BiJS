@@ -389,7 +389,6 @@
                         "in": "query",
                         "name": "isNewMessage",
                         "description": "true/false",
-                        "type": "string",
                         "schema": {
                             "type": "string"
                         }
