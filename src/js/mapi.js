@@ -7572,7 +7572,6 @@
                         "in": "query",
                         "name": "docId",
                         "description": "Document Id number",
-                        "type": "string",
                         "schema": {
                             "type": "string"
                         }
@@ -7581,7 +7580,6 @@
                         "in": "query",
                         "name": "fileTypeId",
                         "description": "File Type Id",
-                        "type": "string",
                         "schema": {
                             "type": "string"
                         }
@@ -8043,7 +8041,6 @@
                         "in": "query",
                         "name": "validAt",
                         "description": "Date in YYYY-MM-DDThh:mm:ss format. Optional value, which when provided, gives in result the policy version active at this date.",
-                        "type": "string",
                         "schema": {
                             "type": "string"
                         }
